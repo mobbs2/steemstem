@@ -101,6 +101,7 @@
       {"BLACKLIST":"gidolee","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"gc-kader","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"giovaabbatichio","WHITELIST":"","GREYLIST":""},
+      {"BLACKLIST":"ghazi48","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"glory001","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"gokhan83kurt","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"gonrgh","WHITELIST":"","GREYLIST":""},
@@ -192,7 +193,8 @@
       {"BLACKLIST":"omaqiin","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"omonosa","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"oredebby","WHITELIST":"","GREYLIST":""},
-      {"BLACKLIST":"osita4coin","WHITELIST":"","GREYLIST":""},
+      {"BLACKLIST":"osita4coin","WHITELIST":"","GREYLIST":""}, 
+      {"BLACKLIST":"ospicer","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"oswaldotorres","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"padosky","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"paterheritage","WHITELIST":"","GREYLIST":""},
@@ -281,5 +283,6 @@
       {"BLACKLIST":"zajer91","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"yusmerlys","WHITELIST":"","GREYLIST":""},
       {"BLACKLIST":"zeusqraqen","WHITELIST":"","GREYLIST":""},
-      {"BLACKLIST":"zonguin","WHITELIST":"","GREYLIST":""}
+      {"BLACKLIST":"zonguin","WHITELIST":"","GREYLIST":""},
+      {"BLACKLIST":"zulfikaraw","WHITELIST":"","GREYLIST":""}
  ]}
