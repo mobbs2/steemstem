@@ -24,7 +24,7 @@
       {"BLACKLIST":"anyes2013","WHITELIST":"scienceblocks","GREYLIST":""},
       {"BLACKLIST":"apteacher","WHITELIST":"mathowl","GREYLIST":""},
       {"BLACKLIST":"ardian27","WHITELIST":"mobbs","GREYLIST":""},
-      {"BLACKLIST":"astromaniac","WHITELIST":"tking77798","GREYLIST":""},
+      {"BLACKLIST":"","WHITELIST":"tking77798","GREYLIST":"astromaniac"},
       {"BLACKLIST":"atare","WHITELIST":"abigail-dantes","GREYLIST":""},
       {"BLACKLIST":"awesomenyl","WHITELIST":"katerinaramm","GREYLIST":""},
       {"BLACKLIST":"balcheng","WHITELIST":"bachuslib","GREYLIST":""},
